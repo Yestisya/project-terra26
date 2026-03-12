@@ -1,1 +1,0 @@
-key_name = "louis-sandbox"  # ganti dengan nama key pair AWS kamu
